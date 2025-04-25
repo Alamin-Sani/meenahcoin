@@ -56,7 +56,7 @@ const Hero = () => {
             Keeping with the best DeFi project to create a challenging atmosphere in such fast-phased blockchain environment.
           </p>
           <p className="text-white text-lg mb-8">
-            hh Coinis the only blockchain which has manage to build a zero cost blockain & gas fee as low as $0.0001 per transaction.
+            Meenah Coin is the only blockchain which has manage to build a zero cost blockain & gas fee as low as $0.0001 per transaction.
           </p>
           <button className="border-2 border-blue-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition duration-300">
             Get Started

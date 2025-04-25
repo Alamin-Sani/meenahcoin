@@ -34,6 +34,27 @@ const Partnership = () => {
   ];
 
   return (
+    <>
+    <section className="py-16 px-4 sm:px-8 lg:px-16">
+      <div className="max-w-5xl mx-auto text-center">
+        <motion.p
+          className="text-2xl font-bold text-white mb-8"
+          variants={itemVariants}
+          initial="hidden"
+          animate="visible"
+        >
+          Meenah is a crypto engineering organization that has built a super fast blockchain which has +100k TPs and has zero cost gas fee blockchain the faster growing ecosystem with projects spanning Defi,Nft, web 3 and much more. Tps up to 100,000 +3s blocktime.
+        </motion.p>
+        <motion.p
+          className="text-2xl font-bold text-white mb-8"
+          variants={itemVariants}
+          initial="hidden"
+          animate="visible"
+        >
+          Tps up to 100,000 +3s blocktime.
+        </motion.p>
+      </div>
+    </section>
     <section className="py-16 px-4 sm:px-8 lg:px-16">
       <div className="max-w-7xl mx-auto text-center">
         {/* Section Title */}
@@ -65,6 +86,8 @@ const Partnership = () => {
         </motion.div>
       </div>
     </section>
+    </>
+
   );
 };
 
