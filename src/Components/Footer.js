@@ -106,7 +106,7 @@ const Footer = () => {
                 </div>
                 <div className="flex justify-center gap-4">
                     <a
-                        href="https://t.me/+_6yZEX4pynhjNWU0"
+                        href="https://t.me/meenahg91"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-300 hover:text-blue-500"
@@ -114,7 +114,7 @@ const Footer = () => {
                         <Image src='/icons/telegram.svg' width={50} height={50} alt="discord logo" />
                     </a>
                     <a
-                        href="https://x.com/meenah_oin"
+                        href="https://x.com/OinMeenah"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-300 hover:text-blue-500"
