@@ -12,9 +12,6 @@ const Roadmap = () => {
         "Launch Social Media (Twitter, Telegram, etc.)",
         "Launch Website",
         "Private sale to gather marketing funds",
-        "Apply for listing on CoinVote, CoinSniper, CoinHunt",
-        "Begin aggressive Marketing Campaign",
-        "Launch Shilling contests and art contest",
         "Audit by InterFi released before the presale"
       ],
       color: "bg-purple-500",
@@ -24,7 +21,7 @@ const Roadmap = () => {
       title: "Expansion & Growth",
       items: [
         "Start working on the first mini game",
-        "Presale on PinkSale",
+        "Fair launch on PinkSale",
         "Launch Token, Lock Liquidity",
         "Launch first game right after the token",
         "CMS Trending",
