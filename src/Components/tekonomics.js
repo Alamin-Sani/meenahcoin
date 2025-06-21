@@ -109,4 +109,4 @@ const Tokenomics = () => {
   );
 };
 
-export default Tekonomics;
+export default Tokenomics;
