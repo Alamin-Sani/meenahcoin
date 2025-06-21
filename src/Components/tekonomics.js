@@ -22,7 +22,7 @@ const Tokenomics = () => {
 
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
-            <div className="bg-white/5 backdrop-blur-md rounded-2xl p-8 border border-white/10">
+            <div className="bg-white/5 backdrop-blur-md rounded-2xl p-8 border border-white/10 w-full">
               <h3 className="text-2xl font-bold text-white mb-4">Total Supply</h3>
               <p className="text-3xl font-bold bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent">
                 799,500,000 MEENAH
