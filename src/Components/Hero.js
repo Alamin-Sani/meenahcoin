@@ -20,27 +20,6 @@ const Hero = () => {
       <div className="absolute inset-0 bg-black/12 z-10"></div>
       {/* Container for centered content */}
       <div className="max-w-7xl mx-auto px-4 sm:px-8 lg:px-16 flex flex-col lg:flex-row items-center justify-center gap-8 z-20">
-        {/* Left Column: Hero Image */}
-        //<motion.div
-         // className="w-full lg:w-1/2 relative h-64 sm:h-96 lg:h-auto"
-         // variants={imageVariants}
-        //  initial="hidden"
-         // animate="visible"
-       // >
-          //<div className="relative w-full flex items-center justify-center h-full">
-            //<Image
-              //src="/img/meenlg.png" // Replace with your image path
-             // width={300}
-            //  height={300}
-             // alt="Hero Image"
-             // className=""
-            // layout="fill"
-            // objectFit="cover"
-            // className="rounded-lg shadow-lg"
-            />
-          //</div>
-        //</motion.div>
-
         {/* Right Column: Text Content */}
         <motion.div
           className="lg:w-1/2 text-center lg:text-left"
