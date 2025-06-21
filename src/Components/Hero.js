@@ -27,7 +27,7 @@ const Hero = () => {
           initial="hidden"
           animate="visible"
         >
-          <h1 className="text-2xl sm:text-5xl font-bold text-white mb-4">
+          <h1 className="text-2xl sm:text-5xl font-bold text-white mb-4 w-full">
             Meenah, The Zero Cost Gas Fee Blockchain
           </h1>
         </motion.div>
