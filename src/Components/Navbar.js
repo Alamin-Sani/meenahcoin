@@ -39,12 +39,12 @@ const Navbar = () => {
             >
               Roadmap
             </a>
-            {/* <a
-              href="#"
+            <a
+              href="#tokenomics"
               className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-md font-bold"
             >
-              Contact
-            </a> */}
+              Tokenomics
+            </a>
           </div>
 
           {/* Mobile Menu Button */}
