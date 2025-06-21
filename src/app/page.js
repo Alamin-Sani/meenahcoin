@@ -7,7 +7,7 @@ import HowItWorks from "@/Components/HowItWorks";
 import Navbar from "@/Components/Navbar";
 import Partnership from "@/Components/Partners";
 import Roadmap from "@/Components/Roadmap";
-import Tokenomics from "@/Components/tekonomics;
+import Tokenomics from "@/Components/tekonomics";
 import Image from "next/image";
 
 
