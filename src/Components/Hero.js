@@ -30,16 +30,6 @@ const Hero = () => {
           <h1 className="text-2xl sm:text-5xl font-bold text-white mb-4">
             Meenah, The Zero Cost Gas Fee Blockchain
           </h1>
-          <hr className="my-8 h-px border-0 bg-[#CCFFFF] dark:bg-gray-800" />
-          <p className="text-white text-lg mb-8">
-            Keeping with the best DeFi project to create a challenging atmosphere in such fast-phased blockchain environment.
-          </p>
-          <p className="text-white text-lg mb-8">
-            Meenah Coin is the only blockchain which has manage to build a zero cost blockain & gas fee as low as $0.0001 per transaction.
-          </p>
-          <button className="border-2 border-blue-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition duration-300">
-            Get Started
-          </button>
         </motion.div>
       </div>
     </section>
