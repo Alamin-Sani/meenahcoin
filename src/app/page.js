@@ -7,7 +7,7 @@ import HowItWorks from "@/Components/HowItWorks";
 import Navbar from "@/Components/Navbar";
 import Partnership from "@/Components/Partners";
 import Roadmap from "@/Components/Roadmap";
-import Tekonomics from "@/Components/Tekonomics
+import Tekonomics from "@/Components/Tekonomics;
 import Image from "next/image";
 
 
@@ -20,7 +20,7 @@ export default function Home() {
       <DescriptiveSection />
       <HowItWorks />
       <Roadmap />
-      
+      <Tekonimics />
       <Footer />
     </>
   );
