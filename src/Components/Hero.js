@@ -16,7 +16,7 @@ const Hero = () => {
   };
 
   return (
-    <section className="h-screen flex items-center justify-center bg-[url('/img/bg.png')] bg-cover bg-center bg-no-repeat">
+    <section className="h-screen flex items-center justify-center bg-[url('/img/meenah.jpg')] bg-cover bg-center bg-no-repeat">
       <div className="absolute inset-0 bg-black/12 z-10"></div>
       {/* Container for centered content */}
       <div className="max-w-7xl mx-auto px-4 sm:px-8 lg:px-16 flex flex-col lg:flex-row items-center justify-center gap-8 z-20">
