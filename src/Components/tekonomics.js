@@ -1,6 +1,6 @@
 const Tokenomics = () => {
   const tokenomicsData = [
-    { label: 'Liquidity', percentage: 65, amount: '129,918,750', color: 'from-purple-500 to-pink-600' },
+    { label: 'Liquidity', percentage: 65, amount: '520,000,000', color: 'from-purple-500 to-pink-600' },
     { label: 'CEX Listing', percentage: 10, amount: '79,950,000', color: 'from-green-500 to-emerald-600' },
     { label: 'Team', percentage: 10, amount: '79,950,000', color: 'from-yellow-500 to-orange-600' },
     { label: 'Marketing', percentage: 7, amount: '55,965,000', color: 'from-red-500 to-pink-600' },
