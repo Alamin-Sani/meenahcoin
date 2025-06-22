@@ -88,7 +88,19 @@ const Tokenomics = () => {
                 <div className="space-y-3">
                   <div className="flex items-center space-x-3">
                     <div className="w-2 h-2 bg-cyan-400 rounded-full"></div>
-                    <span className="text-gray-300 text-sm">40% Fair Launch ensures community ownership</span>
+                    <span className="text-gray-300 text-sm">40% Tokens Locked for 720 Days</span>
+                  </div>
+                  <div className="flex items-center space-x-3">
+                    <div className="w-2 h-2 bg-blue-400 rounded-full"></div>
+                    <span className="text-gray-300 text-sm">10% Tokens Locked for 180 Days</span>
+                  </div>
+                  <div className="flex items-center space-x-3">
+                    <div className="w-2 h-2 bg-red-400 rounded-full"></div>
+                    <span className="text-gray-300 text-sm">10% Tokens Locked for 80 Days</span>
+                  </div>
+                  <div className="flex items-center space-x-3">
+                    <div className="w-2 h-2 bg-green-400 rounded-full"></div>
+                    <span className="text-gray-300 text-sm">5% Tokens Locked for 30 Days</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <div className="w-2 h-2 bg-purple-400 rounded-full"></div>
